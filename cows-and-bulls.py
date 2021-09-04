@@ -5,7 +5,7 @@ def cows_and_bulls():
     cows = 0
     bulls = 0
 
-    # while the user# doesnt equal the CPU number, continue the program
+    # while the user# doesnt equal the CPU#, continue the program
     while cows != 4:
         user_number = str(input("Enter a 4-digit number: "))
 
