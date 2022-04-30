@@ -4,7 +4,7 @@ Hi 👋 My name is Ryan O'Connell
 🖥️  See my portfolio at [MyPortfolio](http://https://neptunerjo.github.io/portfolio/)  
 ✉️  You can contact me at [rjo9000@outlook.com](mailto:rjo9000@outlook.com)  
 🧠  I'm currently learning Cypress  
-🚀  I'm currently working on refactoring [ECommerce](https://github.com/NeptuneRjo/e-commerce)
+🚀  I'm currently working on implementing MUI into [Cryptoverse](https://github.com/NeptuneRjo/cryptoverse)
 
 ### Skills
 
