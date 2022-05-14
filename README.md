@@ -3,7 +3,7 @@ Hi 👋 My name is Ryan O'Connell
 🌍  I'm based in Florida  
 🖥️  See my portfolio at [MyPortfolio](http://https://neptunerjo.github.io/portfolio/)  
 ✉️  You can contact me at [rjo9000@outlook.com](mailto:rjo9000@outlook.com)  
-🧠  I'm currently learning Cypress  
+🧠  I'm currently learning Cypress and Firebase
 🚀  I'm currently working on [Where's Waldo](https://github.com/neptunerjo/wheres-waldo) 
 
 ### Skills
