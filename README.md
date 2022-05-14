@@ -4,7 +4,7 @@ Hi 👋 My name is Ryan O'Connell
 🖥️  See my portfolio at [MyPortfolio](http://https://neptunerjo.github.io/portfolio/)  
 ✉️  You can contact me at [rjo9000@outlook.com](mailto:rjo9000@outlook.com)  
 🧠  I'm currently learning Cypress  
-🚀  I'm currently working on learning Firebase 9 and updating [Cryptoverse](https://github.com/neptunerjo/cryptoverse) to v2 with updated styling and Chart.js
+🚀  I'm currently working on [Where's Waldo](https://github.com/neptunerjo/wheres-waldo) 
 
 ### Skills
 
