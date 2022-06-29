@@ -4,4 +4,4 @@ Hi 👋 My name is Ryan O'Connell
 🖥️  See my portfolio [here](https://neptunerjo.github.io/portfolio/)  
 ✉️  You can contact me at [rjo9000@outlook.com](mailto:rjo9000@outlook.com)  
 🧠  I'm currently learning Nodejs   
-🚀  I'm currently working on [Members Only](https://github.com/neptunerjo/members-only)
+🚀  I'm currently working on [Blog API](https://github.com/NeptuneRjo/blog_api)
