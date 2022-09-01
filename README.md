@@ -4,4 +4,4 @@ Hi 👋 My name is Ryan O'Connell
 🖥️  See my portfolio [here](https://neptunerjo.github.io/portfolio/)  
 ✉️  You can contact me at [rjo9000@outlook.com](mailto:rjo9000@outlook.com)  
 🧠  I'm currently learning about how to build MERN applications and TypeScript  
-🚀  I'm currently working on refactoring [Space Tourism](https://github.com/NeptuneRjo/space-tourism)
+🚀  I'm currently working on nothing ATM
