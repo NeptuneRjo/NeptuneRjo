@@ -5,3 +5,5 @@ Hi 👋 My name is Ryan O'Connell
 ✉️  You can contact me at [neptunero@outlook.com](mailto:neptunero@outlook.com)  
 🧠  I'm currently learning Python, Flask, and Django     
 🚀  I'm currently working on going through some tutorials
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
