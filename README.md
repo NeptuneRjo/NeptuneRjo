@@ -6,4 +6,4 @@ Hi 👋 My name is Ryan O'Connell
 🧠  I'm currently learning Python, Flask, and Django     
 🚀  I'm currently working on going through some tutorials
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptunerjo&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neptunerjo&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
