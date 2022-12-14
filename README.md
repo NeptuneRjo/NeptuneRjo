@@ -1,4 +1,4 @@
-Hi 👋 My name is Ryan O'Connell
+Hi 👋 My name is Ryan   
 ## Frontend Developer
 🌍  I'm based in Florida  
 🖥️  See my portfolio [here](https://neptunerjo.github.io/portfolio/)  
