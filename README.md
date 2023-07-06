@@ -1,7 +1,7 @@
 Hi 👋 My name is Ryan   
 ## Frontend Developer
 🌍  I'm based in Florida  
-🖥️  See my portfolio [here](https://neptunerjo.github.io/portfolio/)  
+🖥️  See my portfolio [here](https://neptunerjo.netlify.app/)  
 🧠  I'm currently learning C#     
 🚀  I'm currently working on learning C#
 
